@@ -1,2 +1,0 @@
-# coding-projects
-projects
